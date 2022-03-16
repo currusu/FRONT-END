@@ -1,0 +1,16 @@
+.Google{
+
+    color: red;
+
+}
+
+a:hover{
+
+    background-color: rgb(163, 32, 32);
+    color: aliceblue;
+}
+
+a:visited{
+
+    color:#ccc
+}
